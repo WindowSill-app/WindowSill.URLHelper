@@ -7,7 +7,7 @@
 
         <PackageId>WindowSill.URLHelper</PackageId>
         <Version>0.0.1</Version>
-        <Authors>veler</Authors>
+        <Authors>Etienne Baudoux</Authors>
         <Title>URL Helper</Title>
         <Description>This WindowSill extension allows to shorten URLs or generate QR Code for them.</Description>
         <PackageIcon>Assets/link.png</PackageIcon>
