@@ -6,10 +6,15 @@
         <LangVersion>preview</LangVersion>
 
         <PackageId>WindowSill.URLHelper</PackageId>
-        <Version>0.5.0</Version>
+        <Version>0.6.1</Version>
         <Authors>Etienne Baudoux</Authors>
         <Title>URL Helper</Title>
-        <Description>This WindowSill extension allows to shorten URLs or generate QR Code for them.</Description>
+        <Description>
+          This WindowSill extension allows to shorten URLs or generate QR Code for them.
+
+          What's new:
+          - Added translation for French
+        </Description>
         <PackageIcon>Assets/link.png</PackageIcon>
         <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
         <PackageProjectUrl>https://getwindowsill.app</PackageProjectUrl>
