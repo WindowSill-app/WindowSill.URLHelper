@@ -6,14 +6,11 @@
         <LangVersion>preview</LangVersion>
 
         <PackageId>WindowSill.URLHelper</PackageId>
-        <Version>0.6.1</Version>
+        <Version>0.6.2</Version>
         <Authors>Etienne Baudoux</Authors>
         <Title>URL Helper</Title>
         <Description>
           This WindowSill extension allows to shorten URLs or generate QR Code for them.
-
-          What's new:
-          - Added translation for French
         </Description>
         <PackageIcon>Assets/link.png</PackageIcon>
         <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
@@ -23,6 +20,7 @@
     <ItemGroup>
         <None Include="Assets/link.png" Pack="true" PackagePath="\Assets\" />
         <None Include="LICENSE.md" Pack="true" PackagePath="\" />
+        <None Include="CHANGELOGS.md" Pack="true" PackagePath="\" />
     </ItemGroup>
     <ItemGroup>
         <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="14.8.2" />
