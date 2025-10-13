@@ -6,7 +6,7 @@
         <LangVersion>preview</LangVersion>
 
         <PackageId>WindowSill.URLHelper</PackageId>
-        <Version>0.6.2</Version>
+        <Version>0.7.0</Version>
         <Authors>Etienne Baudoux</Authors>
         <Title>URL Helper</Title>
         <Description>
@@ -25,7 +25,7 @@
     <ItemGroup>
         <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="14.8.2" />
         <PackageReference Include="Magick.NET.Core" Version="14.8.2" />
-        <PackageReference Include="WindowSill.API" Version="0.5.0" />
+        <PackageReference Include="WindowSill.API" Version="0.7.0" />
         <PackageReference Include="ZXing.Net.Bindings.Magick" Version="0.16.16" />
     </ItemGroup>
 </Project>

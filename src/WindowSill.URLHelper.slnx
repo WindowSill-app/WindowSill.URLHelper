@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="WindowSill.URLHelper/WindowSill.URLHelper.csproj" />
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="WindowSill.URLHelper/WindowSill.URLHelper.csproj">
+    <Platform Project="x64" />
+  </Project>
 </Solution>
